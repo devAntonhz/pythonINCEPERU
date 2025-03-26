@@ -1,4 +1,4 @@
-# 
+#
 # ? OPERADORES DE ENTRADA Y SALIDA
 # ? SALIDA
 # saludo = "Hola Mundo"
