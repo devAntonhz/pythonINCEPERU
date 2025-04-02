@@ -33,16 +33,5 @@ else:
 
 # ! TODO: TAREA: CREA EL FAMOSO JUEGO DE PIEDRA PAPEL O TIJERA, ENTRE 2 JUGADORES, con opeardor comparacion (==) | PRO si usas > y <.
 
-print("Bienvenidos al juego de Piedra Papel y Tijeras")
-print("Escoje: \n1.Piedra \n2.Papel \n3.Tijera")
 
-player1 = input("Jugador 1 - Escoje: ")
-player2 = input("Jugador 2 - Escoje: ")
-
-if player1.lower() == "piedra":
-    pass
-
-
-if player1 == 1:
-    pass
 
